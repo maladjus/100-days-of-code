@@ -16,3 +16,12 @@
 **Thoughts:** I know that many days will not be like this one, but today I was excited to sit and work through more exercises and though my time is up for the day, I'm already looking forward to tomorrow. Code on!
 
 **Link(s) to work:** [1.FCC Notes](http://codepen.io/maladjus/pen/GrRGop)  [2.Tribute Page](http://codepen.io/maladjus/pen/vydGwO)
+
+
+### Day 3: January 05, 2017
+
+**Today's Progress**: I've continued reviewing several FreeCodeCamp exercises.
+
+**Thoughts:** I'm still having fun reviewing exercises and re-creating simple examples of what I'm learning via HTML in codepen.
+
+**Link to work:** [FCC Notes](http://codepen.io/maladjus/pen/GrRGop)
