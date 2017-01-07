@@ -25,3 +25,12 @@
 **Thoughts:** I'm still having fun reviewing exercises and re-creating simple examples of what I'm learning via HTML in codepen.
 
 **Link to work:** [FCC Notes](http://codepen.io/maladjus/pen/GrRGop)
+
+
+### Day 4: January 06, 2017
+
+**Today's Progress**: I've continued reviewing several more FreeCodeCamp exercises.
+
+**Thoughts:** Over the hour, I encountered many 'aw yeah!' and 'oh that's right!' moments. Reviewing and reinforcing what I've learned with practice. So fun!
+
+**Link to work:** [FCC Notes](http://codepen.io/maladjus/pen/GrRGop)
