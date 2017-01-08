@@ -34,3 +34,12 @@
 **Thoughts:** Over the hour, I encountered many 'aw yeah!' and 'oh that's right!' moments. Reviewing and reinforcing what I've learned with practice. So fun!
 
 **Link to work:** [FCC Notes](http://codepen.io/maladjus/pen/GrRGop)
+
+
+### Day 5: January 07, 2017
+
+**Today's Progress**: I've continued reviewing several more FreeCodeCamp exercises.
+
+**Thoughts:** I progressed through further review of FCC exercises. My note-taking wasn't as complete this time as it has been on prior days. Perhaps tomorrow I'll make a special codepen to quiz myself.
+
+**Link to work:** [FCC Notes](http://codepen.io/maladjus/pen/GrRGop)
