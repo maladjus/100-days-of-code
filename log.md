@@ -43,3 +43,12 @@
 **Thoughts:** I progressed through further review of FCC exercises. My note-taking wasn't as complete this time as it has been on prior days. Perhaps tomorrow I'll make a special codepen to quiz myself.
 
 **Link to work:** [FCC Notes](http://codepen.io/maladjus/pen/GrRGop)
+
+
+### Day 6: January 08, 2017
+
+**Today's Progress**: Created a very basic HTML/CSS page to practice some lessons I learned yesterday.
+
+**Thoughts:** I kept yesterday's promise. Funny part, to me, was that the hour I put in zoomed by. And now I am hungry.
+
+**Link to work:** [Hello World!](http://codepen.io/maladjus/pen/apvvvX)
