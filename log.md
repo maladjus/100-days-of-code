@@ -52,3 +52,12 @@
 **Thoughts:** I kept yesterday's promise. Funny part, to me, was that the hour I put in zoomed by. And now I am hungry.
 
 **Link to work:** [Hello World!](http://codepen.io/maladjus/pen/apvvvX)
+
+
+### Day 7: January 09, 2017
+
+**Today's Progress**: Reviewed more FCC exercises today. (BONUS: Coded initial outline of Wind Chimes track in Sonic Pi earlier today.)
+
+**Thoughts:** I didn't feel like taking notes, though after today's review process, I know I'll need to practice to retain what I learned. Low energy today, but still having fun.
+
+**Link to work:** [Hello World!](http://codepen.io/maladjus/pen/apvvvX)
