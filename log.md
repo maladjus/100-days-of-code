@@ -61,3 +61,12 @@
 **Thoughts:** I didn't feel like taking notes, though after today's review process, I know I'll need to practice to retain what I learned. Low energy today, but still having fun.
 
 **Link to work:** [Hello World!](http://codepen.io/maladjus/pen/apvvvX)
+
+
+### Day 8: January 10, 2017
+
+**Today's Progress**: Practiced using Bootstrap on my basic HTML/CSS page to apply what I learned/reviewed yesterday.
+
+**Thoughts:** Took my code on the road. Treated myself to a late lunch, then took advantage of the WiFi while in the away environment. 
+
+**Link to work:** [Hello World!](https://github.com/maladjus/100-days-of-code/blob/master/170110.html)
