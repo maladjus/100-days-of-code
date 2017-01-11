@@ -70,3 +70,12 @@
 **Thoughts:** Took my code on the road. Treated myself to a late lunch, then took advantage of the WiFi while in the away environment. 
 
 **Link to work:** [Hello World!](https://github.com/maladjus/100-days-of-code/blob/master/170110.html)
+
+
+### Day 9: January 11, 2017
+
+**Today's Progress**: Added Font Awesome CDN to my basic HTML/CSS page. Practiced adding new icons. Practiced adding links to Bootstrap buttons.
+
+**Thoughts:** Coding for me this morning, believe it or not, was a stress reliever. Through these practice sessions I'm forming a clearer plan for my tribute page project.
+
+**Link to work:** [Hello World!](https://github.com/maladjus/100-days-of-code/blob/master/170111.html)
