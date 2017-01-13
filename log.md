@@ -79,3 +79,12 @@
 **Thoughts:** Coding for me this morning, believe it or not, was a stress reliever. Through these practice sessions I'm forming a clearer plan for my tribute page project.
 
 **Link to work:** [Hello World!](https://github.com/maladjus/100-days-of-code/blob/master/170111.html)
+
+
+### Day 10: January 12, 2017
+
+**Today's Progress**: Tinkered with some more HTML and Font Awesome icons on a practice page. Spent the rest of my time constructing a rhythmic square wave track in Sonic Pi.
+
+**Thoughts:** Today was one of those days where my overall pace took a hit thanks to other matters stealing my focus. I pushed through, but it was not pretty.
+
+**Link to work:** N/A - Will share the Square track when I'm ready to share it.
