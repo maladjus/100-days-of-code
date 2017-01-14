@@ -97,3 +97,12 @@
 ** Thoughts ** Being in a better mood today made the time fly by and I'm already looking forward to more practice tomorrow.
 
 **Link to work:**[Practice Page](https://github.com/maladjus/100-days-of-code/blob/master/170113.html)
+
+
+### Day 12: January 14, 2017
+
+** Today's Progress**: Played with buttons! Added jQuery & Animate.css to my practice page. Practiced using various jQuery functions, including addClass, removeClass, html, css, prop, remove, clone, appendTo, parent, and children.
+
+** Thoughts ** Wow. Just scratching the surface, I'm sure, but I'm blown away by what jQuery can be able to accomplish. Can't wait to play with it more!
+
+**Link to work:**[Practice Page](https://github.com/maladjus/100-days-of-code/blob/master/170114.html)
