@@ -88,3 +88,12 @@
 **Thoughts:** Today was one of those days where my overall pace took a hit thanks to other matters stealing my focus. I pushed through, but it was not pretty.
 
 **Link to work:** N/A - Will share the Square track when I'm ready to share it.
+
+
+### Day 11: January 13, 2017
+
+** Today's Progress**: Continued HTML practice on basic page. Reviewed responsive radio buttons. Paved way for some jQuery practice tomorrow by adding multiple wells and buttons to the page.
+
+** Thoughts ** Being in a better mood today made the time fly by and I'm already looking forward to more practice tomorrow.
+
+**Link to work:**[Practice Page](https://github.com/maladjus/100-days-of-code/blob/master/170113.html)
