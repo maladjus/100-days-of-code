@@ -1,0 +1,124 @@
+<!-- jQuery library -->
+
+<script
+  src="https://code.jquery.com/jquery-3.1.1.slim.js"
+  integrity="sha256-5i/mQ300M779N2OVDrl16lbohwXNUdzL/R2aVUXyXWA="
+  crossorigin="anonymous">
+</script>
+
+<!-- Animate.css library -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
+<!-- Only change code below this line - jQuery text in progress -->
+
+<script>
+  $(document).ready(function() {
+    $("button").addClass("animated");
+    $(".btn").addClass("shake");
+    $("#target1").addClass("btn-primary");
+    $("#target9").addClass("btn-warning");
+    $("#target16").addClass("btn-success");
+    $("button").removeClass("btn-default");
+    $("#target0").removeClass("animated");
+    $("#target11").css("color", "red");
+    $("#target4").prop("disabled", true);
+    $("#h2").html("<b>What should I do next?</b>");
+    $("#target13").remove();
+    $("#target3").appendTo("#center-well");
+    $("#target9").clone().appendTo("#center-well");
+    $("#target1").parent().css("background-color", "purple");
+    $("#right-well").children().css("color", "blue");
+  });
+</script>
+
+<!-- Only change code above this line - jQuery test in progress -->
+
+<!-- Latest compiled and minified CSS -->
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="#" crossorigin="anonymous">
+
+<!-- Google Font Import -->
+
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+<!-- Font Awesome -->
+
+<script src="#"></script>
+
+<style>
+  body {
+    background-color: silver;
+    font-family: Raleway, Serif;
+  }
+  
+  .box1 {
+    background-color: blue;
+    margin: 0px 0px 0px 0px;
+    text-align: center;
+  }
+</style>
+
+<div class="container-fluid">
+  <h1><i class="fa fa-smile-o"></i></h1>
+    <h2 id="h2">What should I do next?</h2>
+  <div class="row">
+    <div class="col-xs-3">
+      <label><input type="radio" name="big-decision"> Eat</label>
+    </div>
+    <div class="col-xs-3">
+      <label><input type="radio" name="big-decision"> Sleep</label>
+    </div>
+    <div class="col-xs-3">
+      <label><input type="radio" name="big-decision"> Code</label>
+    </div>
+    <div class="col-xs-3">
+      <label><input type="radio" name="big-decision"> Repeat</label>
+    </div>
+  </div>
+    <h2>What is your favorite color?</h2>
+  <div class="row">
+    <div class="col-xs-7">
+      <input type="text" class="form-control" placeholder="Insert favorite color here" required>
+    </div>
+    <div class="col-xs-5">
+      <button type="submit" class="btn btn-primary" id="target0"><i class="fa fa-paper-plane"></i> Submit</button>
+    </div>
+  </div>
+  <h2>Well, Well, Well <i class="fa fa-smile-o"></i></h2>
+  <div class="row">
+    <div class="col-xs-4">
+      <div class="well" id="left-well">
+        <button class="btn btn-default target" id="target1">#target1</button>
+        <button class="btn btn-default target" id="target2">#target2</button>
+        <button class="btn btn-default target" id="target3">#target3</button>
+        <button class="btn btn-default target" id="target4">#target4</button>
+        <button class="btn btn-default target" id="target5">#target5</button>
+        <button class="btn btn-default target" id="target6">#target6</button>
+      </div>
+      <h4>#left-well</h4>
+    </div>
+    <div class="col-xs-4">
+      <div class="well" id="center-well">
+        <button class="btn btn-default target" id="target7">#target7</button>
+        <button class="btn btn-default target" id="target8">#target8</button>
+        <button class="btn btn-default target" id="target9">#target9</button>
+        <button class="btn btn-default target" id="target10">#target10</button>
+        <button class="btn btn-default target" id="target11">#target11</button>
+        <button class="btn btn-default target" id="target12">#target12</button>
+      </div>
+      <h4>#center-well</h4>
+    </div>
+    <div class="col-xs-4">
+      <div class="well" id="right-well">
+        <button class="btn btn-default target" id="target13">#target13</button>
+        <button class="btn btn-default target" id="target14">#target14</button>
+        <button class="btn btn-default target" id="target15">#target15</button>
+        <button class="btn btn-default target" id="target16">#target16</button>
+        <button class="btn btn-default target" id="target17">#target17</button>
+        <button class="btn btn-default target" id="target18">#target18</button>
+      </div>
+      <h4>#right-well</h4>
+    </div>
+  </div>
+</div>
