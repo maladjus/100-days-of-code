@@ -106,3 +106,12 @@
 ** Thoughts ** Wow. Just scratching the surface, I'm sure, but I'm blown away by what jQuery can be able to accomplish. Can't wait to play with it more!
 
 **Link to work:**[Practice Page](https://github.com/maladjus/100-days-of-code/blob/master/170114.html)
+
+
+### Day 13: January 15, 2017
+
+** Today's Progress**: Spent over an hour (so far) revising my rhythmic square wave track in Sonic Pi. Learned a few new tricks which allowed me to remove many lines of code while preserving the composition. Same song, less verbose.
+
+** Thoughts ** Coding in Sonic Pi tickles me to no end. I smile dreaming of the possibilities that will come with continued practice.
+
+**Link to work:** N/A - Will share the Square track when I'm ready to share it.
