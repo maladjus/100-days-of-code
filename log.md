@@ -92,35 +92,35 @@
 
 ### Day 11: January 13, 2017
 
-** Today's Progress**: Continued HTML practice on basic page. Reviewed responsive radio buttons. Paved way for some jQuery practice tomorrow by adding multiple wells and buttons to the page.
+**Today's Progress**: Continued HTML practice on basic page. Reviewed responsive radio buttons. Paved way for some jQuery practice tomorrow by adding multiple wells and buttons to the page.
 
-** Thoughts ** Being in a better mood today made the time fly by and I'm already looking forward to more practice tomorrow.
+**Thoughts** Being in a better mood today made the time fly by and I'm already looking forward to more practice tomorrow.
 
 **Link to work:**[Practice Page](https://github.com/maladjus/100-days-of-code/blob/master/170113.html)
 
 
 ### Day 12: January 14, 2017
 
-** Today's Progress**: Played with buttons! Added jQuery & Animate.css to my practice page. Practiced using various jQuery functions, including addClass, removeClass, html, css, prop, remove, clone, appendTo, parent, and children.
+**Today's Progress**: Played with buttons! Added jQuery & Animate.css to my practice page. Practiced using various jQuery functions, including addClass, removeClass, html, css, prop, remove, clone, appendTo, parent, and children.
 
-** Thoughts ** Wow. Just scratching the surface, I'm sure, but I'm blown away by what jQuery can be able to accomplish. Can't wait to play with it more!
+**Thoughts** Wow. Just scratching the surface, I'm sure, but I'm blown away by what jQuery can be able to accomplish. Can't wait to play with it more!
 
 **Link to work:**[Practice Page](https://github.com/maladjus/100-days-of-code/blob/master/170114.html)
 
 
 ### Day 13: January 15, 2017
 
-** Today's Progress**: Spent over an hour (so far) revising my rhythmic square wave track in Sonic Pi. Learned a few new tricks which allowed me to remove many lines of code while preserving the composition. Same song, less verbose.
+**Today's Progress**: Spent over an hour (so far) revising my rhythmic square wave track in Sonic Pi. Learned a few new tricks which allowed me to remove many lines of code while preserving the composition. Same song, less verbose.
 
-** Thoughts ** Coding in Sonic Pi tickles me to no end. I smile dreaming of the possibilities that will come with continued practice.
+**Thoughts** Coding in Sonic Pi tickles me to no end. I smile dreaming of the possibilities that will come with continued practice.
 
 **Link to work:** N/A - Will share the Square track when I'm ready to share it.
 
 
-## Day 14: January 16, 2017
+### Day 14: January 16, 2017
 
-** Today's Progress**: Spent another hour coding to learn how to play chord-based arpeggios in Sonic Pi. Got a great start on a new melody. Also spent some time trying to get a better understanding of using GitHub by creating a new repository in which to store/update my HTML practice pages.
+**Today's Progress**: Spent another hour coding to learn how to play chord-based arpeggios in Sonic Pi. Got a great start on a new melody. Also spent some time trying to get a better understanding of using GitHub by creating a new repository in which to store/update my HTML practice pages.
 
-** Thoughts ** I am excited about what I'm learning in both Sonic Pi and what I learned about GitHub, too. Good stuff all around.
+**Thoughts** I am excited about what I'm learning in both Sonic Pi and what I learned about GitHub, too. Good stuff all around.
 
 **Link to work:** N/A - Will share the Arp track when I'm ready to share it, perhaps in a new Sonic Pi repository :)
