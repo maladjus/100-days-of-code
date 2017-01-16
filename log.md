@@ -115,3 +115,12 @@
 ** Thoughts ** Coding in Sonic Pi tickles me to no end. I smile dreaming of the possibilities that will come with continued practice.
 
 **Link to work:** N/A - Will share the Square track when I'm ready to share it.
+
+
+## Day 14: January 16, 2017
+
+** Today's Progress**: Spent another hour coding to learn how to play chord-based arpeggios in Sonic Pi. Got a great start on a new melody. Also spent some time trying to get a better understanding of using GitHub by creating a new repository in which to store/update my HTML practice pages.
+
+** Thoughts ** I am excited about what I'm learning in both Sonic Pi and what I learned about GitHub, too. Good stuff all around.
+
+**Link to work:** N/A - Will share the Arp track when I'm ready to share it, perhaps in a new Sonic Pi repository :)
