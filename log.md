@@ -133,3 +133,12 @@
 **Thoughts**: Next stop, FCC Tribute Page challenge. It's going to be fun!
 
 **Link to work:**: TBA
+
+
+### Day 16: January 18, 2017
+
+**Today's Progress**: Today was another Sonic Pi day. Continued coding a new TB303 track. Discovered :wobble and :panslicer FX as well as :wave and :smooth variables - I am in love!
+
+**Thoughts**: Coding in Sonic Pi is a joy that brings me joy.
+
+**Link to work**: Forthcoming
