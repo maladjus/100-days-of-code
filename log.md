@@ -142,3 +142,12 @@
 **Thoughts**: Coding in Sonic Pi is a joy that brings me joy.
 
 **Link to work**: Forthcoming
+
+
+### Day 17: January 19, 2017
+
+**Today's Progress**: Today I spent all of my time coding/experimenting with drum patterns in Sonic Pi.
+
+**Thoughts**: Editing and experimenting can be slow-going while I'm learning. I'm not discouraged - just coming to terms with reality. This will take time to master.
+
+**Link to work**: Forthcoming
