@@ -160,3 +160,8 @@
 **Thoughts**: This was one of my least productive days to date, but still a good experience. I have some more Reading-Searching-Asking to do.
 
 
+### Day 19: January 21, 2017
+
+**Today's Progress**: Spent my time today reading more about and practicing the use of CSS borders, margins, boxes, and the like for my tribute page.
+
+**Thoughts**: w3schools.com is a great supplemental resource.
