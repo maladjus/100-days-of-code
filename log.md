@@ -151,3 +151,12 @@
 **Thoughts**: Editing and experimenting can be slow-going while I'm learning. I'm not discouraged - just coming to terms with reality. This will take time to master.
 
 **Link to work**: Forthcoming
+
+
+### Day 18: January 20, 2017
+
+**Today's Progress**: Most of my time today was spent trying to devise how to set up borders to my liking for my FCC tribute page project.
+
+**Thoughts**: This was one of my least productive days to date, but still a good experience. I have some more Reading-Searching-Asking to do.
+
+
