@@ -165,3 +165,10 @@
 **Today's Progress**: Spent my time today reading more about and practicing the use of CSS borders, margins, boxes, and the like for my tribute page.
 
 **Thoughts**: w3schools.com is a great supplemental resource.
+
+
+### Day 20: January 22, 2017
+
+**Today's Progress**: More tinkering with two of my Sonic Pi tracks.
+
+**Thoughts**: I need a vacation.
