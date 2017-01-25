@@ -180,3 +180,9 @@
 **Thoughts**: When I sat down at my desk to code tonight, I didn't think I'd last 5 minutes. Thank you, Sonic Pi, for making over 60 minutes zip by and make me wish I could keep going. So fun!
 
 **Link to work:**[Chipleader](https://github.com/maladjus/sonic-pi-crumbs/blob/master/Chipleader)
+
+### Day 22: January 24, 2017
+
+**Today's Progress**: Continued fleshing out Chipleader track in Sonic Pi.
+
+**Thoughts**: Once again, 60 minutes blew by like 5.  Good times.
