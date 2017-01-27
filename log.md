@@ -193,3 +193,10 @@
 **Today's Progress**: Put in more Sonic Pi time.
 
 **Thoughts**: Progress today was much slower than the past two days, but still had fun.
+
+
+### Day 24: January 26, 2017
+
+**Today's Progress**: Chipleader track in Sonic Pi, continued.
+
+**Thoughts**: I had a lot of other things on my mind before I sat down to play with this code tonight. Now I wonder where the time went. Fun set.
