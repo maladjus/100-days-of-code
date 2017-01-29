@@ -1,3 +1,5 @@
+### As of January 27, 2017, I need to withdraw from this challenge indefinitely. I still plan to code every day as time allows, and will start a supplementary log to share that progress (link forthcoming). I just know that there will be days when I will run out of time to code, so this seems the most appropriate compromise. I look forward to making a renewed attempt in the near future. - TH
+
 # 100 Days Of Code - Log
 
 ### Day 1: January 03, 2017
